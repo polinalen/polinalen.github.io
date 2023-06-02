@@ -21,10 +21,10 @@
 title: Polina Len
 email: polina.len@nu.edu.kz
 description: # >- this means to ignore newlines until "baseurl:"
-  Polina Len's Home Page \n
-  Research Assistant at Living Systems and Biophotonics Lab \n
-  Nazarbayev University \n
-  Astana, Kazakhstan \n
+  Polina Len's Home Page <br>
+  Research Assistant at Living Systems and Biophotonics Lab <br>
+  Nazarbayev University <br>
+  Astana, Kazakhstan <br>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lensplaining
