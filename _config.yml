@@ -20,7 +20,7 @@
 
 title: Polina Len
 email: polina.len@nu.edu.kz
-description: >- # this means to ignore newlines until "baseurl:"
+description: # >- this means to ignore newlines until "baseurl:"
   Polina Len's Home Page
   Research Assistant at Living Systems and Biophotonics Lab
   Nazarbayev University
