@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-06-27-test-page.md",
+                "file": "about.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d30b50fde39ae5c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-06-27-test-page.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-06-27-test-page.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-06-27-test-page.md"
+                "file": "index.md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94a23ae4089d4239",
+  "active": "144a785daa8e7d20",
   "lastOpenFiles": [
+    "interesting.md",
     "about.md",
-    "_posts/2023-06-02-welcome-to-jekyll.md",
+    "index.md",
     "_posts/2023-06-27-test-page.md",
-    "index.md"
+    "_posts/2023-06-02-welcome-to-jekyll.md"
   ]
 }
