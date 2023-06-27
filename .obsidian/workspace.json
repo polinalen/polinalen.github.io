@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Test page.md",
+                "file": "_posts/2023-06-27-test-page.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Test page.md",
+                "file": "_posts/2023-06-27-test-page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Test page.md",
+                "file": "_posts/2023-06-27-test-page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Test page.md"
+                "file": "_posts/2023-06-27-test-page.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "94a23ae4089d4239",
   "lastOpenFiles": [
+    "about.md",
     "_posts/2023-06-02-welcome-to-jekyll.md",
-    "_posts/Test page.md",
-    "index.md",
-    "about.md"
+    "_posts/2023-06-27-test-page.md",
+    "index.md"
   ]
 }
