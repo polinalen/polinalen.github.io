@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "66ce251633491caf",
+        "id": "5748e2bda0a629b3",
         "type": "tabs",
         "children": [
           {
-            "id": "30e5c52c1939401d",
+            "id": "71f62d67c30fb282",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-07-14-FEMS-2023.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-07-14-FEMS-2023.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-07-14-FEMS-2023.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-07-14-FEMS-2023.md"
+                "file": "index.md"
               }
             }
           }
@@ -146,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30e5c52c1939401d",
+  "active": "71f62d67c30fb282",
   "lastOpenFiles": [
+    "assets/img/mugshot.jpg",
+    "_posts/2023-07-14-FEMS-2023.md",
     "index.md",
     "interesting.md",
-    "_posts/2023-07-14-FEMS-2023.md",
     "assets/img",
     "_posts/2023-07-14-test.md",
     "about.md",
-    "assets/img/mugshot.jpg",
     "assets",
     "[.md",
     "_posts/2023-06-02-welcome-to-jekyll.md",
