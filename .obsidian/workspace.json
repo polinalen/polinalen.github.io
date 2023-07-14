@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about.md"
+                "file": "index.md"
               }
             }
           }
@@ -148,12 +148,14 @@
   },
   "active": "30e5c52c1939401d",
   "lastOpenFiles": [
+    "media/mugshot.jpg",
+    "media",
     "about.md",
+    "interesting.md",
+    "index.md",
     "[.md",
     "_posts/2023-06-02-welcome-to-jekyll.md",
     "_posts/2023-06-27-test-page.md",
-    "index.md",
-    "nu.edu.kz.md",
-    "interesting.md"
+    "nu.edu.kz.md"
   ]
 }

@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+![Profile picutre](media/mugshot.jpg)
+{: style="float: left" height="100px" width="100px"}
