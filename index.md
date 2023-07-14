@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-<img src="/assets/img/mugshot.jpg" alt="profile-pic" style="height: 100px; width:100px;"/>
+<img style="border-radius: 50%" src="/assets/img/mugshot.jpg" alt="profile-pic" style="height: 200px"/>
 
 Sup!
 And welcome to my page!
