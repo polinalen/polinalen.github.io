@@ -4,6 +4,12 @@
 
 layout: home
 ---
+
+```html
+<img src="/assets/img/mugshot.jpg" alt="profile-pic" style="height: 100px; width:100px;"/>
+```
+
+
 Sup!
 And welcome to my page!
 
