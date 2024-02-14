@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interesting
-permalink: /check/
+title: Notes
+permalink: /notes/
 ---
 check check
