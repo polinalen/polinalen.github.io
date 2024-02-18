@@ -7,5 +7,14 @@ I have accumulated a fair amount of videos, audios, and messages (mostly in chat
 
 > IMP: This post IS NOT an applicaiton guideline or source of advice for aspiring grad students. This post IS NOTHING MORE than my recollection of the application process and emotions and thoughts that accompanied it.
 
-# 
-in progress..
+### My priorities
+    1. I have ultimately decided to go via a non cannonical route and apply directly to PhD, skipping MSc degree.
+    2. My research area of choice is microbial *evolution*, phylogeny and origin of life.
+    3. PhD is about research, not classes. Research is work, and work environment is important (although this part is tough to predict). So the order is: current and potential lab projects >> supervisor >>> university.
+
+### Looking for PhD positions
+
+
+### Statement of Purpose
+
+### Interviews
