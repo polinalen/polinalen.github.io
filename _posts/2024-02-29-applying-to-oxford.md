@@ -5,12 +5,12 @@ title:  "My Oxford DPhil Application Timeline"
 
 How it all went...
 
-##### **Early October**
+#### **Early October**
 
 - Exploring different labs to see if anyone is doing work related to phylogenetics, microbial evolution, origin of life, or similar fields. I really cared more about potential projects than the name of my department or degree.
 
 
-##### **October 13**
+#### **October 13**
 
 - Not a big fan of the email-bombing multiple  supervisors, so I have sent an email to a single professor whose research group seemed to me as a good fit.
 
@@ -23,12 +23,12 @@ How it all went...
 >- make it clear in your email what kind of response you are waiting for (i.e. wondering if they are accepting MSc/PhD students? do you hope for a meeting? Make it straightforward and thus easier to answer)
 
 
-##### **October 20**
+#### **October 20**
 
 - Found out that the supervisor in question is on sabbatical, so I have contacted a senior lab member. They have suggested that it is unlikely the professor is recruiting this year. 
 
 
-##### **October 23-24**
+#### **October 23-24**
 
 - Followed up with professor and received a reply that the lab is not accepting PhD students in the current round.
 
@@ -36,13 +36,13 @@ How it all went...
 ~ Looking for gradschools elsewhere ~
 
 
-##### **November 4-5**
+#### **November 4-5**
 - Accidentally discovered (via twitter) that a group lead from the MRC LMS - who is by the way working on chromatin evolution in bacteria and archaea! - is moving to Oxford and accepting PhD students.
 - Dropped them an email and asked for an opportunity to discuss potential position in their lab
 - Got a reply on the same day and decided on a timeslot for a meeting
 
 
-##### **November 13**
+#### **November 13**
 - Had a meeting (interview?) with the potential supervisor
 
 > Things you might want to discuss (not necessarily in this order):
@@ -55,7 +55,7 @@ How it all went...
 > - here is a [usefull post](https://twitter.com/PaolaVFigueroa/status/1312157953550479361?s=20) with more questions 
 
 
-##### **December 1**
+#### **December 1**
 - Submitted my [DPhil application to the Department of Biochemistry](https://www.ox.ac.uk/admissions/graduate/courses/dphil-biochemistry)
 
 >**Proposed field and title of research project** and **Proposed supervisor**
@@ -73,7 +73,7 @@ How it all went...
 >	 5) Show that I am well versed and familiar with current trends in the proposed field
 
 
-##### **January 8**
+#### **January 8**
 - Received invitation to interview with the Department
 > Interview instructions: 
 > - two group leaders from the biochemistry department
@@ -82,7 +82,7 @@ How it all went...
 > - a one page (A4 sized) presentation is allowed (must be provided in advance)
 
 
-##### **January 16**
+#### **January 16**
 - Interview Day
 - I presented a succinct summary of my BSc thesis to two members of the Department; however, my proposed research supervisor was not a part of the commission.
 - I have been asked (more or less) general questions regarding the methodology and results of the project, as well as about my experiences and expectations in academia. Ones that I remember are
@@ -91,7 +91,7 @@ How it all went...
 	* What are the skills you want to learn while doing DPhil?
 - I didn't have any definitive feeling about whether or not I did well, and it was primarely because I didn't feel challanged at any point of this interview - it was a nice chat, that's all. However, considering that Oxford faculty would most probably **not** waste their time interviewing students, my final assumption was that it has been a reality-check interview to see if my interview performance matches my application.
 
-##### **January 17**
+#### **January 17**
 
 - Received an invitation for a follow up interview
 > Interview instructions: 
@@ -100,7 +100,7 @@ How it all went...
 > - the task is to give a 10-minute presentation (up to five slides) on a research paper chosen from the list provided
 
 
-##### **January 23**
+#### **January 23**
 - Interview Day
 - I knew the names of faculty who would join my interview from the MTeams invite, so I've made a background check on all of them. It turned out to be interesting but not critical to my performance during the interview.
 - Following all the instructions, I have presented paper of choice, and while - obviously - I do not have feedback from the commission, here are the things that *I believe* have made my presentation stronger:
@@ -119,13 +119,13 @@ How it all went...
 - Even though the were no direct feedback after this stage, I knew that I nailed the interview! Ahaha, just a feeling!
 
 
-##### **January 30**
+#### **January 30**
 - The University of Oxford has made me an offer of a place on the Doctor of Philosophy in Biochemistry
 
 
-##### **January 31**
+#### **January 31**
 - Funding offer came in: Medical Sciences Graduate School Studentship
 
 
-##### **February 27**
+#### **February 27**
 - Funding offer came in: Clarendon Scholarship scheme
