@@ -13,7 +13,6 @@ How it all went...
 #### **October 13**
 
 - Not a big fan of the email-bombing multiple  supervisors, so I have sent an email to a single professor whose research group seemed to me as a good fit.
-
 >Email to a potential supervisor:
 >- introduce yourself and a subject of your inquiry
 >- why are you interested in their research?
@@ -44,7 +43,6 @@ How it all went...
 
 #### **November 13**
 - Had a meeting (interview?) with the potential supervisor
-
 > Things you might want to discuss (not necessarily in this order):
 > - potential projects you could undertake
 > - supervisor's expectations
@@ -58,19 +56,19 @@ How it all went...
 #### **December 1**
 - Submitted my [DPhil application to the Department of Biochemistry](https://www.ox.ac.uk/admissions/graduate/courses/dphil-biochemistry)
 
->**Proposed field and title of research project** and **Proposed supervisor**
->I have chosen a single project (though it was possible to indicate up to 3) that was associated with my preferred supervisor
+> **Proposed field and title of research project** and **Proposed supervisor**:
+> I have chosen a single project (though it was possible to indicate up to 3) that was associated with my preferred supervisor
 >	
->**Referees**
->My three referees were my current research supervisor (PI), internship supervisor, and university Professor/Academic adviser.
+> **Referees**:
+> My three referees were my current research supervisor (PI), internship supervisor, and university Professor/Academic adviser.
 >	
->**Statement of Purpose**
->Among other things, here are 5 that I really tried ot emphasize in my essay:
->	 1) How have my interests in academia developed over time?
->	 2) How have these previous experiences prepared me for DPhil?
->	 3) Why am I a good fit for the program?
->	 4) Why is the program a good fit for me?
->	 5) Show that I am well versed and familiar with current trends in the proposed field
+> **Statement of Purpose**:
+> Among other things, here are 5 that I really tried ot emphasize in my essay:
+>	1) How have my interests in academia developed over time?
+>	2) How have these previous experiences prepared me for DPhil?
+>	3) Why am I a good fit for the program?
+>	4) Why is the program a good fit for me?
+>	5) Show that I am well versed and familiar with current trends in the proposed field
 
 
 #### **January 8**
