@@ -55,7 +55,6 @@ How it all went...
 
 #### **December 1**
 - Submitted my [DPhil application to the Department of Biochemistry](https://www.ox.ac.uk/admissions/graduate/courses/dphil-biochemistry)
-
 > **Proposed field and title of research project** and **Proposed supervisor**:
 > I have chosen a single project (though it was possible to indicate up to 3) that was associated with my preferred supervisor
 >	
@@ -64,11 +63,11 @@ How it all went...
 >	
 > **Statement of Purpose**:
 > Among other things, here are 5 that I really tried ot emphasize in my essay:
->	1) How have my interests in academia developed over time?
->	2) How have these previous experiences prepared me for DPhil?
->	3) Why am I a good fit for the program?
->	4) Why is the program a good fit for me?
->	5) Show that I am well versed and familiar with current trends in the proposed field
+>	- How have my interests in academia developed over time?
+>	- How have these previous experiences prepared me for DPhil?
+>	- Why am I a good fit for the program?
+>	- Why is the program a good fit for me?
+>	- Show that I am well versed and familiar with current trends in the proposed field
 
 
 #### **January 8**
