@@ -8,9 +8,6 @@ layout: home
 
 <img src="/assets/img/mugshot.jpg" alt="profile-pic" style="height: 200px; width: 200px; border-radius: 50%"/>
 
-Sup!
-And welcome to my page!
+Salem to all of you, time beings!
 
-I am an aspiring bioinformatician working in the field of microbial ecology. I am inspired by the questions on origin of life and evolutionary mechanisms behind eukaryogenesis! 
-
-Here you can find updates on my first steps in academia and some useful materials that I discover and/or create.
+This is my microblog, where I am fighting my fear of the blank page and making notes about my life! Welcome?
