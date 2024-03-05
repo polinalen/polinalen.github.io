@@ -25,3 +25,6 @@ title:  "Notes on Grad School Application"
 
 * Simple one: if admission rate is < 10%, then it's a lottery. Don't overthink it.
 
+
+
+...
