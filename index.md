@@ -8,6 +8,4 @@ layout: home
 
 <img src="/assets/img/mugshot.jpg" alt="profile-pic" style="height: 200px; width: 200px; border-radius: 50%"/>
 
-Salem to all of you, time beings!
-
-This is my microblog, where I am fighting my fear of the blank page and making notes about my life! Welcome?
+Micro- and macro-blogging once in a blue moon...
